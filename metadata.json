@@ -1,0 +1,6 @@
+{
+  "name": "CitizenOne AI",
+  "description": "Next-generation Unified Citizen Platform combining Government Services, Schemes, Scholarships, Internships, Jobs, AI Resume Analyzer, Multilingual Voice Assistant, and Document Vault.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
